@@ -17,7 +17,7 @@ I'm Emmanuel Ochiba, a Python Developer, ML/AI Engineer, and Data Analyst with e
 ## Connect With Me
 
 - Twitter: [chibsAI](https://twitter.com/chibsAI)
-- Kaggle: [chibbss(https://www.kaggle.com/chibss/code)
+- Kaggle: [chibbss](https://www.kaggle.com/chibss/code)
 - Email: [emmanuelochiba7@gmail.com](mailto:emmanuelochiba7@gmail.com)
 
 Feel free to reach out if you have any questions or would like to connect!
