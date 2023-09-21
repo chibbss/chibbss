@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my portfolio.
 
-<!--
-**chibbss/chibbss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Emmanuel Ochiba's Portfolio
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Emmanuel Ochiba, a Python Developer, ML/AI Engineer, and Data Analyst with expertise in finance and business intelligence.
+
+## Tech Stack
+
+- Python
+- Machine Learning (Scikit-learn, TensorFlow)
+- Data Analysis (Pandas, NumPy)
+- Business Intelligence Tools (Tableau, Power BI)
+- SQL
+- ...
+
+## Connect With Me
+
+- Twitter: [chibsAI](https://twitter.com/chibsAI)
+- Kaggle: [chibbss(https://www.kaggle.com/chibss/code)
+- Email: [emmanuelochiba7@gmail.com](mailto:emmanuelochiba7@gmail.com)
+
+Feel free to reach out if you have any questions or would like to connect!
+
+---
+
+Thank you for stopping by!
+
