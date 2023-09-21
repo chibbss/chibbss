@@ -7,8 +7,8 @@ I'm Emmanuel Ochiba, a Python Developer, ML/AI Engineer, and Data Analyst with e
 
 ## Tech Stack
 
-- Python
-- Machine Learning (Scikit-learn, TensorFlow)
+- Python (Django, FastAPI)
+- Machine Learning (Scikit-learn, TensorFlow, Langchain, Gradio, Streamlit)
 - Data Analysis (Pandas, NumPy)
 - Business Intelligence Tools (Tableau, Power BI)
 - SQL
