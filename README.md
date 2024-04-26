@@ -3,7 +3,7 @@
 # Emmanuel Ochiba's Portfolio
 
 
-I'm Emmanuel Ochiba, a Python Developer, ML/AI Engineer, and Data Analyst with expertise in finance and business intelligence.
+I'm Emmanuel Ochiba, a Python Developer, ML Engineer
 
 ## Tech Stack
 
