@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my portfolio.
 
-I'm Emmanuel Ochiba, a Python Developer, ML Engineer
+I'm Emmanuel Ochiba, a Python Developer, Machine Learning Engineer and Large Language Model researcher
 
 ## Tech Stack
 
